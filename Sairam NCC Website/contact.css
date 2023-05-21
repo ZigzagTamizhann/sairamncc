@@ -118,14 +118,7 @@ header {
     width: 200px;
     height: 200px;
   }
-  
-  footer {
-    background: #f4f4f4;
-    padding: 20px;
-    text-align: center;
-    font-size: 14px;
-  }
-  
+
   .flip-card {
     background-color: transparent;
     width: 300px;
@@ -176,11 +169,11 @@ header {
   }
 
   footer {
-    background-color: #333;
-    color: #fff;
+    background: #f4f4f4;
+    padding: 20px;
     text-align: center;
-    padding: 1em;
-  }
+    font-size: 14px;
+}
   .header-name {
     animation: pulse 2.5s infinite;
   }
